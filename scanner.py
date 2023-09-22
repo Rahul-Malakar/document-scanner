@@ -23,6 +23,5 @@ if contours:
     cv2.imshow('Cropped Document with Contrast Enhancement', enhanced_document_region)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    
 else:
     print("No contours found.")

@@ -13,7 +13,7 @@ Library : OpenCV
 - Clone the project
 
 ```bash
-git clone https://github.com/rahulmalakar42/document-scanner.git
+https://github.com/rahulmalakar42/document-scanner.git
 ```
 ### Or
 - Download repo.
